@@ -1,0 +1,37 @@
+.img{width: 100%;position: relative;z-index: 0;margin-top: 3%}
+.img img{width: 70%;margin-left: 15%;margin-right: 15%;}
+.img2{width: 80%;position: absolute;z-index: 2;margin-left: 10%;margin-top: -6%}
+.img2 img{width: 15%;float: right;margin-right: 5%}
+.about{width: 101.5%;margin-left: -1%;background: linear-gradient(to top right, #233764 0%, #008582 100%);
+  height: auto;margin-top: 5%;padding: 5% 0%;}
+.instagram{width:100%;margin-bottom: 5%}
+.profject{width: 70%;margin: 0% 15%;height: auto;}
+.profject p img{width: 15%;float: left;margin-right: 3%;border-radius: 50%}
+.profject p{text-align: justify;color: #f4f4f4}
+.cirbox2{width: 50%;margin: 0% 25%;background: linear-gradient(to top right, #dddddd 0%, #eeeeee 100%);border-radius: 50px;}
+.cirbox2 p{color: rgb(0,133,130);font-family: open sans;font-weight: bold;font-size: 1.7vmax;padding: 3% 0%;}
+.ins-left{width: 22%;float: left;height: auto;margin-left: 12%}
+.ins-mid{width: 22%;float: left;height: auto;margin-left: 5%}
+.ins-right{width: 22%;float: left;height: auto;margin-left: 5%}
+.quis{width: 100%;height: auto;margin: 10% 0%;margin-top: 8%}
+.quis img{width: 5%;margin: 5% 47.5%;margin-bottom: 0%}
+.texquis{width: 35%;height: auto;border-bottom: dashed 1px silver;margin: 0% 32.5%}
+.texquis p{font-size: 3vmax;font-weight: bold;color: #111111;margin: 0;margin-bottom: 2%}
+.note{width: 100%}
+.note img{width: 12%;margin: 3% 44%;cursor: pointer;}
+.texquis2{font-size: 2vmax;margin-top: 1%}
+@media screen and (max-width: 1920px) {
+  .profject p img{width: 16%;}
+  .ins-left{margin-bottom: 5%}
+  .ins-right{margin-bottom: 5%}
+  ins-mid{margin-bottom: 5%}
+}
+@media screen and (max-width: 768px) {
+  .ins-mid{width: 90%;margin: 0 5%}
+  .ins-left{width: 90%;margin: 0 5%}
+  .ins-right{width: 90%;margin: 0 5%}
+}
+@media screen and (max-width: 425px) {
+  .profject p img{width: 30%;float: left;margin-right: 3%;border-radius: 50%}
+  .profject p{font-size: 2vmax}
+}
