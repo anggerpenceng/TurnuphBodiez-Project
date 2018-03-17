@@ -1,10 +1,12 @@
-# TurnuphBodiez-Project
+# TurnuphBodiez
 
-This project was generated with PHP Native 
+this project from Inslide to make a website who provide service to Body Maker. 
+For this Website , We just work on the Front-End Engineer. 
 
-# See The Website
+## For the Link
 
-Click This link...
+As soon as posibe: we have not sent to the hosting
 
+## Thanks
 
-Developed By Duckskool members
+Copyright 2018 Inslide All Rights Reserved 
